@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+.rfm-navbar, .rfm-workspace-list-add-folder, dx-license {
+    display: none;
+}
